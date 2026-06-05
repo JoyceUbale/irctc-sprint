@@ -8,7 +8,7 @@
 
 ---
 
-# Problem 1: Tatkal Booking Crashes at 10:00 AM [Given]
+# Problem 1: Tatkal Booking Crashes at 10:00 AM 
 
 ## What is broken
 
@@ -48,7 +48,7 @@ The IRCTC server becomes extremely slow or unresponsive when Tatkal booking open
 
 ---
 
-# Problem 2: Search Filters Do Not Work Reliably [Given]
+# Problem 2: Search Filters Do Not Work Reliably 
 
 ## What is broken
 
@@ -87,7 +87,7 @@ IRCTC search filters such as quota, class, seat availability, and departure time
 
 ---
 
-# Problem 3: Seat Selection Resets Randomly [Given]
+# Problem 3: Seat Selection Resets Randomly 
 
 ## What is broken
 
@@ -124,114 +124,3 @@ When users select a preferred seat or berth during booking, the selection is som
 * Seat selection state is not reliably transferred between booking screens.
 * Mobile page re-renders can clear local state.
 * Users lose confidence in the booking process.
-
----
-
-# Problem 4: [Self-Discovered Problem]
-
-## How I Found It
-
-(To be filled)
-
-## Screenshot or Description
-
-(To be filled)
-
-## What is broken
-
-(To be filled)
-
-## Affected Users
-
-(To be filled)
-
-## Frequency
-
-(To be filled)
-
-## Current Flow — Step by Step
-
-1.
-2.
-3.
-4.
-5.
-6.
-
-## Where Exactly It Breaks
-
-(To be filled)
-
----
-
-# Problem 5: [Self-Discovered Problem]
-
-## How I Found It
-
-(To be filled)
-
-## Screenshot or Description
-
-(To be filled)
-
-## What is broken
-
-(To be filled)
-
-## Affected Users
-
-(To be filled)
-
-## Frequency
-
-(To be filled)
-
-## Current Flow — Step by Step
-
-1.
-2.
-3.
-4.
-5.
-6.
-
-## Where Exactly It Breaks
-
-(To be filled)
-
----
-
-# Problem 6: [Self-Discovered Problem]
-
-## How I Found It
-
-(To be filled)
-
-## Screenshot or Description
-
-(To be filled)
-
-## What is broken
-
-(To be filled)
-
-## Affected Users
-
-(To be filled)
-
-## Frequency
-
-(To be filled)
-
-## Current Flow — Step by Step
-
-1.
-2.
-3.
-4.
-5.
-6.
-
-## Where Exactly It Breaks
-
-(To be filled)
